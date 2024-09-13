@@ -1,0 +1,33 @@
+/*
+ Theme Name:   Freesia-Empire Child
+ Description:  OSHWA Freeisa
+ Author:       Kelly Maguire
+ Author URI:   http://kellbot.com
+ Template:     freesia-empire
+ Version:      0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.sponsor-logo {
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#secondary .attachment-sponsor_logo {
+	margin-bottom: 40px;
+}
+.sponsor-details {
+	float:left;
+}
+
+.header-donate {
+	float: left;
+	padding: 6px 20px 6px 5px;
+}
+
+.header-donate a {
+	color: #000;
+}

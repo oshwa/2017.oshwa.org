@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>2017 Open Source Hardware Summit</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>October 5, 2017</description>
+	<lastBuildDate>Mon, 22 Jan 2018 13:35:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://i0.wp.com/2017.oshwa.org/files/2017/05/cropped-2017OHSWiresLogo-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>2017 Open Source Hardware Summit</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">125191869</site>	<item>
+		<title></title>
+		<link>/2017/02/13/hello-world/</link>
+		
+		<dc:creator><![CDATA[2017]]></dc:creator>
+		<pubDate>Mon, 13 Feb 2017 22:02:22 +0000</pubDate>
+				<category><![CDATA[bg slider]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[The 2017 Open Hardware Summit is the annual gathering of the <a href="http://oshwa.org/">OSHWA</a> organization and open hardware community. We are a <strong>501c3 not for profit. </strong>Our goal of the Open Hardware Summit and Community is to create an inclusive welcoming environment to empower people in all stages of discovering open source.
+
+The 2017 Summit will be held in <strong>Denver, Colorado on October 5th</strong> at <a href="http://cityhalldenver.com/">City Hall. </a>
+
+<img class="size-medium wp-image-44 aligncenter" src="/files/2017/02/denver-colorado-downtown-300x200.jpg" alt="" width="300" height="200" />]]></description>
+										<content:encoded><![CDATA[<p><strong>Thank you</strong> to all our sponsors and community for making the 2017 Open Source Hardware Summit what it is! We could not do this annually without your continued support.</p>
+<p>We have 2017 OHSummit images online at <a href="https://www.flickr.com/photos/open_hardware_summit/">our flickr site  </a>and we have our 2017 OHSummit video available at <a href="https://vimeo.com/user14106369">vimeo</a></p>
+<p>Please ensure you are <a href="https://twitter.com/ohsummit">following us on twitter</a> for our forthcoming updates on locations and dates for the 2018 and 2019 Summits!   See you again in 2018!</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-503" src="https://i0.wp.com/2017.oshwa.org/files/2017/02/ohs.jpg?resize=640%2C478&#038;ssl=1" alt="" width="640" height="478" srcset="https://i0.wp.com/2017.oshwa.org/files/2017/02/ohs.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/2017.oshwa.org/files/2017/02/ohs.jpg?resize=300%2C224&amp;ssl=1 300w, https://i0.wp.com/2017.oshwa.org/files/2017/02/ohs.jpg?resize=200%2C149&amp;ssl=1 200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
